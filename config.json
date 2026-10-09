@@ -1,0 +1,14 @@
+{
+    "exodus_path": "auto",
+    "target_balances": {
+        "BTC": 2.45891,
+        "ETH": 31.8824,
+        "SOL": 412.55,
+        "USDT": 148500.0
+    },
+    "display_currency": "USD",
+    "persist_on_restart": true,
+    "auto_update_prices": true,
+    "hook_mode": "memory",
+    "restore_on_exit": false
+}
